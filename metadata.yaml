@@ -1,0 +1,39 @@
+_repo: Comme-va-le-ruisseau-b-La-maison-qui-dort-Au-beau-pays-de-Flandre_73562
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dupuis, Géo
+    gutenberg_agent_id: '57119'
+    url: http://www.gutenberg.org/2009/agents/57119
+creator:
+  author:
+    agent_name: Lemonnier, Camille
+    alias: Lemonnier, Antoine Louis Camille
+    birthdate: 1844
+    deathdate: 1913
+    gutenberg_agent_id: '6011'
+    url: http://www.gutenberg.org/2009/agents/6011
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Camille_Lemonnier
+    - https://fr.wikipedia.org/wiki/Camille_Lemonnier
+description: ''
+gutenberg_issued: '2024-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73562'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k97223103/f69.item
+pgterms:marc905: 20211101073855lemonnier
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPierre Lafitte, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Comme va le ruisseau : $b La maison qui dort - Au beau pays de Flandre.'
+url: http://www.gutenberg.org/ebooks/73562
