@@ -5,6 +5,9 @@ contributor:
     agent_name: Dupuis, Géo
     gutenberg_agent_id: '57119'
     url: http://www.gutenberg.org/2009/agents/57119
+covers:
+- cover_type: archival
+  image_path: 73562-h/images/cover.jpg
 creator:
   author:
     agent_name: Lemonnier, Camille
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Camille_Lemonnier
     - https://fr.wikipedia.org/wiki/Camille_Lemonnier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73562#Comme-va-le-ruisseau-b-La-maison-qui-dort-Au-beau-pays-de-Flandre
 gutenberg_issued: '2024-05-07'
 gutenberg_type: Text
 identifiers:
